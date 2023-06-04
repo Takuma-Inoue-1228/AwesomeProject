@@ -49,6 +49,15 @@ function Section({children, title}: SectionProps): JSX.Element {
             color: isDarkMode ? Colors.light : Colors.dark,
           },
         ]}>
+        takuma
+      </Text>
+      <Text
+        style={[
+          styles.sectionDescription,
+          {
+            color: isDarkMode ? Colors.light : Colors.dark,
+          },
+        ]}>
         {children}
       </Text>
     </View>
