@@ -12,3 +12,8 @@ ReactNativeの学習のため公式ドキュメントの[Introduction](https://r
 
 1. ルートディレクトリで`npx install`
 2. iosフォルダで`pod install`
+
+## Note
+2023/06/04(日)21:50
+ボタンを追加
+https://gyazo.com/6eff7a7bb1232df641d80cc4a005082a
