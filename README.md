@@ -7,3 +7,8 @@ ReactNativeの学習のため公式ドキュメントの[Introduction](https://r
 - Ruby: ruby 2.7.5p203
 - Watchman: 2023.05.08.00
 - CocoaPods: 1.12.1
+
+## How to Install
+
+1. ルートディレクトリで`npx install`
+2. iosフォルダで`pod install`
